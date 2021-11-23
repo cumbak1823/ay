@@ -1,4 +1,4 @@
-# To get year (integer input) from the user
+i# To get year (integer input) from the user
 # This is my first explanation
 year = int(input("Enter a year: "))
 
@@ -18,5 +18,7 @@ yeni değişiklikler yapıldı
 yeni bir satır daha ekledim
     print("{0} is not a leap year".format(year))
 
-    # mic in yorum
 
+
+    ***************kaya abinin notlari***********
+    # mic in yorum
