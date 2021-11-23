@@ -20,7 +20,10 @@ yeni değişiklikler yapıldı
 yeni bir satır daha ekledim
     print("{0} is not a leap year".format(year))
 
-
+  PORXELEK BUYUKSUNNNNN
+  
+  Porxelek tarafindan yorumlandı.
+    ikinci defa yorumladım.
 
     ***************kaya abinin notlari***********
-    # mic in yorum
+    # mic in yorumu
